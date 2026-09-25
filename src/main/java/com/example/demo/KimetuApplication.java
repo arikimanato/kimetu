@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class KimetuApplication {
 
+	
+	b
 	public static void main(String[] args) {
 		SpringApplication.run(KimetuApplication.class, args);
 	}
